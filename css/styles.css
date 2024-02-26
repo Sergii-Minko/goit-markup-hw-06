@@ -324,8 +324,7 @@ img {
   justify-content: center;
   align-items: center;
   gap: 72px;
-  padding: 72px 52px;
-}
+  }
 
 .main-title {
   letter-spacing: 0.02em;
